@@ -49,3 +49,14 @@ Please visit the [Youtube Channel](https://www.youtube.com/channel/UCjHMxbBzessA
 Disclaimer: By using the resources in this example you agree the author is not liable for losses, damages, injury resulting from the use of this example. This project is distributed as is and without any warranty or guarantees.
 
 Copyright *2023 Animation Prep Studios - Grant Olsen (AnimationPrepStudios@gmail.com)*
+
+
+----------
+
+www.MocapFusion.com
+
+Social:
+Twitter - https://twitter.com/mocapfusion
+Discord - https://discord.com/invite/ErZcKaQ
+Patreon - https://www.patreon.com/prepstudio
+Youtube - https://www.youtube.com/c/AnimationPrepStudios
