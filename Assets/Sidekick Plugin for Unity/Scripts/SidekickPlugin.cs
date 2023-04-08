@@ -214,7 +214,7 @@ public class SidekickPlugin : MonoBehaviour {
 	
 	void ExtractBlendshapeData(float[] values)
 	{
-		for (int i = 0; i < faceRenderers[0].sharedMesh.blendShapeCount; i++)
+		for (int i = 0; i < 52; i++)
 			foreach (var faceRenderer in faceRenderers)
 				faceRenderer.SetBlendShapeWeight(i,  values[i]);
 	}
