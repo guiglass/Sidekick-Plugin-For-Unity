@@ -1,4 +1,4 @@
-# APS Sidekick Face Capture Plugin for Unity (Full Project)
+# APS Sidekick Face Capture Plugin for Unity
 The Sidekick plugin for Unity is a Unity project and iOS app that can be used to create realtime face capture scenes in Unity using a iPhone X or later.
 
 
