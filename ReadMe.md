@@ -4,13 +4,21 @@ The Sidekick plugin for Unity is a Unity project and iOS app that can be used to
 
 ## Examples Scenes:
 [![Youtube Tutorial](https://img.youtube.com/vi/ObtHQCmSBew/0.jpg)](https://www.youtube.com/watch?v=ObtHQCmSBew)
-SidekickPluginExample - Is a simple scene consisting of a MocapHead mesh object that tracks to the user and includes face capture blendshapes. 
+### SidekickPluginExample
+<br>
+Is a simple scene consisting of a MocapHead mesh object that tracks to the user and includes face capture blendshapes. 
 
 [![Youtube Tutorial](https://img.youtube.com/vi/_eKAQv_z6bQ/0.jpg)](https://www.youtube.com/watch?v=_eKAQv_z6bQ)
-SidekickPluginExample_Dragon_Simple - Shows how to link a advanced character using the animated MocapHead rig, and controls a dragon puppet avatar using rotation constraints and custom script to copy the target blendshape.
+### SidekickPluginExample_Dragon_Simple
+<br>
+Shows how to link a advanced character using the animated MocapHead rig, and controls a dragon puppet avatar using rotation constraints and custom script to copy the target blendshape.
 
 [![Youtube Tutorial](https://img.youtube.com/vi/A5vrH3fNN0o/0.jpg)](https://www.youtube.com/watch?v=A5vrH3fNN0o)
-SidekickPluginExample_Dragon_Drones_Game - Is the same as above but with added game functionality to show how to use the Sidekick plugin in a real-world application.
+###SidekickPluginExample_Dragon_Drones_Game 
+<br>
+Is the same as above but with added game functionality to show how to use the Sidekick plugin in a real-world application.
+
+----
 
 ## Installing the necessary software.
 
@@ -20,7 +28,7 @@ SidekickPluginExample_Dragon_Drones_Game - Is the same as above but with added g
 </p>
 
 
-## Setting up the UE5 live-link example project.
+## Setting up the Sidekick Plugin example project.
  
 ### Step 1 - Download the APS Sidekick app for iOS.
 <p align="center">
@@ -31,6 +39,8 @@ SidekickPluginExample_Dragon_Drones_Game - Is the same as above but with added g
 <p align="center">
 
 </p>
+
+----
 
 You're invited to join the [APS Discord](https://discord.com/invite/ErZcKaQ) for tech support, showcases, and chatting with a community of artists and developers.
 
