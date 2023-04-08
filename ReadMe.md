@@ -8,11 +8,11 @@ The Sidekick plugin for Unity is a Unity project and iOS app that can be used to
 Is a simple scene consisting of a MocapHead mesh object that tracks to the user and includes face capture blendshapes. 
 <br>
 ### SidekickPluginExample_Dragon_Simple
-[![Youtube Tutorial](https://img.youtube.com/vi/_eKAQv_z6bQ/0.jpg)](https://www.youtube.com/watch?v=_eKAQv_z6bQ)
+[![Youtube Tutorial](https://img.youtube.com/vi/A5vrH3fNN0o/0.jpg)](https://www.youtube.com/watch?v=A5vrH3fNN0o)
 Shows how to link a advanced character using the animated MocapHead rig, and controls a dragon puppet avatar using rotation constraints and custom script to copy the target blendshape.
 <br>
-###SidekickPluginExample_Dragon_Drones_Game 
-[![Youtube Tutorial](https://img.youtube.com/vi/A5vrH3fNN0o/0.jpg)](https://www.youtube.com/watch?v=A5vrH3fNN0o)
+### SidekickPluginExample_Dragon_Drones_Game 
+[![Youtube Tutorial](https://img.youtube.com/vi/_eKAQv_z6bQ/0.jpg)](https://www.youtube.com/watch?v=_eKAQv_z6bQ)
 Is the same as above but with added game functionality to show how to use the Sidekick plugin in a real-world application.
 <br>
 
