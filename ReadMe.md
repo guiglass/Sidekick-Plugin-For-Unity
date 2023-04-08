@@ -2,7 +2,7 @@
 The Sidekick plugin for Unity is a Unity project and iOS app that can be used to create realtime face capture scenes in Unity using a iPhone X or later.
 
 
-## Examples Scenes:
+## Included Example Scenes:
 ### SidekickPluginExample
 [![Youtube Tutorial](https://img.youtube.com/vi/ObtHQCmSBew/0.jpg)](https://www.youtube.com/watch?v=ObtHQCmSBew)
 <br>A simple scene consisting of a MocapHead mesh object that tracks to the user and includes face capture blendshapes. 
