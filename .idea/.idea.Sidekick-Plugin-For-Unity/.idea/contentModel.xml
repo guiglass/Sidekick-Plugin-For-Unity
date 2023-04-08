@@ -3,21 +3,7 @@
   <component name="ContentModelStore">
     <e p="C:\Unity Development\Sidekick Plugin Github\Sidekick-Plugin-For-Unity\Sidekick-Plugin-For-Unity" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Assets" t="Include">
-        <e p="Sidekick Plugin for Unity" t="Include">
-          <e p="Scripts" t="Include">
-            <e p="CopyBlendshape.cs" t="Include" />
-            <e p="DragonController.cs" t="Include" />
-            <e p="DroneController.cs" t="Include" />
-            <e p="DroneEmitter.cs" t="Include" />
-            <e p="SidekickPlugin.cs" t="Include" />
-          </e>
-        </e>
-      </e>
-      <e p="obj" t="ExcludeRecursive" />
-      <e p="packages" t="ExcludeRecursive" />
       <e p="Sidekick-Plugin-For-Unity.sln" t="IncludeFlat" />
-      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
     <e p="C:\Users\Scotty\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Scotty\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Sidekick-Plugin-For-Unity.1484458835.00" t="ExcludeRecursive" />
