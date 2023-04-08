@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="360ce854-a5dc-454d-a3cd-41fba584a510" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/DroneController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/SidekickPlugin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EC7B0CEF-068D-42FE-A98B-C6F00449B0E2/89/d9bd7b22/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/DroneEmitter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/CopyBlendshape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/898512DD-B9B7-4303-996C-5D2E8D378F73/7d/63e21e51/UdpClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/DragonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84F51B1B-0FF2-473C-A787-C217E1EDA8B9/23/08a9eaa0/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/IPhoneMocap/NetworkMeshAnimator.cs" />
+        <option value="$PROJECT_DIR$/Assets/IPhoneMocap/UnityMainThreadDispatcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/IPhoneMocap/SidekickServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/IPhoneMocap/UDPServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/IPhoneMocap/SidekickPlugin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/SidekickPlugin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/MoveTowardsPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/ParticleHitReactor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/CopyBlendshape.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/DragonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/DroneEmitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/DroneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sidekick Plugin for Unity/Scripts/SidekickPlugin.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M4z08b2oTT5xuiPo8cjGbr6LMn" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="360ce854-a5dc-454d-a3cd-41fba584a510" name="Default Changelist" comment="" />
+      <created>1677041416454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677041416454</updated>
+      <workItem from="1677041417675" duration="7282000" />
+      <workItem from="1678105603700" duration="5483000" />
+      <workItem from="1680852395850" duration="27055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
